@@ -1,10 +1,14 @@
 # DAILY UI 002 - CREDIT CARD CHECKOUT
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4d503eaa-7ced-4ccc-97c8-56c810502fd4/deploy-status)](https://app.netlify.com/sites/cc-checkout-form/deploys)
+
 ## Design Hint
 
 Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc.
 
 ## Link
+
+[Credit card checkout form](https://cc-checkout-form.netlify.app/)
 
 ## Todo
 
